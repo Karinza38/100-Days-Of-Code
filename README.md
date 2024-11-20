@@ -33,7 +33,7 @@ It will take you to another page from there follow along the instructions and yo
     yum install git
 #### Fedora 22 and later
 ##
-    dnf install git (Fedora 22 and later)
+    dnf install git 
 #### Gentoo
 ##
     emerge --ask --verbose dev-vcs/git
