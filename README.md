@@ -50,7 +50,8 @@ It will take you to another page from there follow along the instructions and yo
 ##
     nix-env -i git
 #### FreeBSD
-# pkg install git
+##
+    pkg install git
 #### Solaris 9/10/11 (OpenCSW)
 ##
     pkgutil -i git
