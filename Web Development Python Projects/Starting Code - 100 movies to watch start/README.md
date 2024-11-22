@@ -18,7 +18,7 @@ The central idea behind this project is to be able to use BeautifulSoup to obtai
 
 Since websites change very frequently, **use this link** 
 ```
-URL = "https://web.archive.org/web/20200518073855/https://www.empireonline.com/movies/features/best-movies-2/"
+URL = "https://web.archive.org/web/20241007205559/https://www.empireonline.com/movies/features/best-movies-2/"
 ```
 from the Internet Archive's Wayback machine. That way your work will match the solution video.
 
