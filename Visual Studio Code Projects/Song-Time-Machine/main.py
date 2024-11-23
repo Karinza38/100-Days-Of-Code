@@ -18,8 +18,8 @@ sp = spotipy.Spotify(
     auth_manager=SpotifyOAuth(
         scope="playlist-modify-private",
         redirect_uri="https://www.billboard.com/charts/hot-100/",
-        client_id="c00868388ba14bd7921211ac079ea849",
-        client_secret="1def13e6a6e14c0fbf75901a9c44d37f",
+        client_id="your-spotify-devloper-client-id-here",
+        client_secret="your-spotify-devloper-client-secret-here",
         show_dialog=True,
         cache_path="token.txt"
     )
