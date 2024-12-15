@@ -83,5 +83,5 @@ When it is downloaded run the commands below
     unzip 100-Days-Of-Code.zip
 ##
     cd 100-Days-Of-Code
-And that's it you are all ready to go!
-And also please star my repo!
+## And that's it you are all ready to go!<br>
+## And also please star my repo!
