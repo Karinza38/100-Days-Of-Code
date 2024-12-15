@@ -84,3 +84,4 @@ When it is downloaded run the commands below
 ##
     cd 100-Days-Of-Code
 And that's it you are all ready to go!
+And also please star my repo!
